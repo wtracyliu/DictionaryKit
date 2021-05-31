@@ -42,6 +42,16 @@ NSString * const DCSSimplifiedChinese_EnglishDictionaryName = @"Oxford Chinese D
 NSString * const DCSSpanishDictionaryName = @"Diccionario General de la Lengua Española Vox";
 NSString * const DCSWikipediaDictionaryName = @"Wikipedia";
 
+// Personal
+
+NSString * const DCSLongmanActivatorDictionaryName = @"朗文英语写作活用词典";
+NSString * const DCSOxfordAdvancedLearnersDictionaryName= @"Oxford Advanced Learner's Dictionary 9th edition";
+NSString * const DCSWebsterSynonymsAndAntonymsDictionaryName= @"Merriam-Webster's Dictionary of Synonyms and Antonyms";
+NSString * const DCSEcdictDictionaryName= @"简明英汉字典增强版 - CSS";
+NSString * const DCSEnglishChineseDictionaryName= @"英汉大词典（第2版）";
+NSString * const DCSNewOxfordEnglishChineseDictionaryName= @"新牛津英汉双解大词典";
+
+
 typedef NS_ENUM(NSInteger, TTTDictionaryRecordVersion) {
     TTTDictionaryVersionHTML = 0,
     TTTDictionaryVersionHTMLWithAppCSS = 1,

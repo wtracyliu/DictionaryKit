@@ -98,3 +98,12 @@ extern NSString * const DCSSimplifiedChineseDictionaryName;
 extern NSString * const DCSSimplifiedChinese_EnglishDictionaryName;
 extern NSString * const DCSSpanishDictionaryName;
 extern NSString * const DCSWikipediaDictionaryName;
+
+///  Dictionaries added by user
+
+extern NSString * const DCSLongmanActivatorDictionaryName;
+extern NSString * const DCSOxfordAdvancedLearnersDictionaryName;
+extern NSString * const DCSWebsterSynonymsAndAntonymsDictionaryName;
+extern NSString * const DCSEcdictDictionaryName;
+extern NSString * const DCSEnglishChineseDictionaryName;
+extern NSString * const DCSNewOxfordEnglishChineseDictionaryName;
